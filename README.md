@@ -8,3 +8,7 @@
 * Left side knife
 * Volume bind
 * Net_graph tab
+* Fast switch
+* Jump wheel
+* Clear decals while shoot
+* Recording config
